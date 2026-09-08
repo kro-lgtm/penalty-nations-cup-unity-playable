@@ -1,5 +1,5 @@
-# Penalty Nations Cup Unity playable
+# Penalty Nations Cup — Unity playable
 
-Static host for Unity Ads Playable Test App. Built by Playable Maker (`Convert-WwaPlayable.ps1`).
+HTML-only repo for Unity Ads Playable Test App (GitHub Pages).
 
-Open: [ar-Penalty-wwa-r1-Unity.html](./ar-Penalty-wwa-r1-Unity.html)
+Open: [ar-Penalty-wwa-r2-Unity.html](https://kro-lgtm.github.io/penalty-nations-cup-unity-playable/ar-Penalty-wwa-r2-Unity.html)
