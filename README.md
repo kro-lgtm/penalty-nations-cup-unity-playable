@@ -2,4 +2,4 @@
 
 Static host for Unity Ads Playable Test App. Built by Playable Maker (`Convert-WwaPlayable.ps1`).
 
-Open: [ar-Penalty-wwa-r5-Unity.html](./ar-Penalty-wwa-r5-Unity.html)
+Open: [ar-Penalty-wwa-r6-Unity.html](./ar-Penalty-wwa-r6-Unity.html)
